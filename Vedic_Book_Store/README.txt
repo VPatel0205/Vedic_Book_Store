@@ -85,4 +85,9 @@ Date : 2023-10-31
 1114
 Initiated project from start cause I placed Project and solution in the same directory, cause I misunderstood the slide so I selected to place Project and solution in the same directory. 
 
+1217
+Done all the steps till creating new projects.
+
+
+
 

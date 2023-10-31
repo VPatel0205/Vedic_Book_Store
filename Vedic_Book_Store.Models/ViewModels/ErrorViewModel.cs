@@ -1,6 +1,6 @@
 using System;
 
-namespace Vedic_Book_Store.Models
+namespace Vedic_Book_Store.Models.ViewModels
 {
     public class ErrorViewModel
     {

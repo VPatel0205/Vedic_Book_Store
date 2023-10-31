@@ -11,7 +11,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Vedic_Book_Store.Data;
+using Vedic_Book_Store.DataAccess.Data;
 
 namespace Vedic_Book_Store
 {
